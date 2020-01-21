@@ -1,0 +1,2 @@
+q='abhivyakti'
+print(q)
